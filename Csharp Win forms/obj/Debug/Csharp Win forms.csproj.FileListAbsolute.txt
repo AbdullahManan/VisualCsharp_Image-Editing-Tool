@@ -1,0 +1,9 @@
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\bin\Debug\Csharp Win forms.exe.config
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\bin\Debug\Csharp Win forms.exe
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\bin\Debug\Csharp Win forms.pdb
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp Win forms.csprojResolveAssemblyReference.cache
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp_Win_forms.Form1.resources
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp_Win_forms.Properties.Resources.resources
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp Win forms.csproj.GenerateResource.Cache
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp Win forms.exe
+E:\C# Window Forms July 1\Csharp Win forms\Csharp Win forms\obj\Debug\Csharp Win forms.pdb
